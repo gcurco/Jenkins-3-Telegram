@@ -1,6 +1,6 @@
 <?php 
 
-$weatherApi = "";
+$weatherApi = "http://api.openweathermap.org/data/2.5/weather?q=Lleida&appid=1190757424d6d05aab4cb8447d8acfc3";
 
 $var1 = curl_init();
 
